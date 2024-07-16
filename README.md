@@ -5,17 +5,9 @@ Este proyecto de Power BI presenta un análisis detallado de las ventas de disti
 ## Hojas del Tablero
 
 1. **Ventas por Marca y País**
-   - En esta hoja, se reflejan todos los números de ventas de celulares desglosados por marca y país.
-   - Permite comparar el rendimiento de las diferentes marcas en cada uno de los cinco países.
-
 2. **Desglose de Ventas por Modelo**
-   - Esta hoja muestra un desglose detallado de las ventas de cada marca por modelo de celular.
-   - Ayuda a identificar cuáles son los modelos más vendidos y cómo se distribuyen las ventas dentro de cada marca.
-
 3. **Ventas por Cliente y Ganancias**
-   - En la última hoja, se analizan las ventas por cliente y se calcula la ganancia generada por cada uno.
-   - Proporciona información sobre el valor de los clientes y su contribución a las ganancias totales.
-
+   
 ## Resumen
 
 Este tablero es una herramienta poderosa para entender el comportamiento de las ventas de celulares en distintos mercados europeos y tomar decisiones informadas sobre estrategias de ventas y marketing.
